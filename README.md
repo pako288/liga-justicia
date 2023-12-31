@@ -10,3 +10,5 @@ Pueden hacer lo que quieran...
 Este es un mensaje editado completamente desde GitHub!!!!
 
 ### Agregamos otro punto para subirlo con el push
+
+### Ya el repositorio ha sido clonado, de esto terner exito sera subido a GitHub
